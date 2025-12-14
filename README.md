@@ -2,10 +2,6 @@
 This project demonstrates a simple bio-inspired navigation strategy based on the behavior of desert ants.
 
 
-# Ant-Inspired Path Integration Navigation
-
-This project demonstrates a simple bio-inspired navigation strategy based on the behavior of desert ants.
-
 ## Inspiration
 Desert ants use the sun as a compass and integrate direction and distance during exploration to compute a direct return path to their nest. This project models that behavior using a lightweight 2D simulation.
 
