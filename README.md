@@ -34,7 +34,10 @@ ant-path-integration/
 The simulation shows a random exploratory path followed by a straight return path, mimicking ant navigation behavior.
 
 ### Sample Output
-![Simulation Result](screenshots/simulation_result.png)
+
+![Simulation Result](https://raw.githubusercontent.com/buvir/Ant-Inspired-Path-Integration-Navigation/main/screenshots/simulation_result.png)
+
+
 
 ## Relevance to Warehouse Robotics
 This approach is suitable for autonomous navigation in GPS-denied environments such as warehouses, offering a low-computation and robust solution.
